@@ -31,8 +31,8 @@ export default function SetupNotice() {
 
           <strong>2.</strong>
           <span>
-            Adicione <code>NEXT_PUBLIC_SUPABASE_URL</code> e{" "}
-            <code>NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY</code>.
+            Adicione <code>VITE_PUBLIC_SUPABASE_URL</code> e{" "}
+            <code>VITE_PUBLIC_SUPABASE_ANON_KEY</code>.
           </span>
 
           <strong>3.</strong>
